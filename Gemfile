@@ -11,7 +11,7 @@ gem "govuk_publishing_components", "~> 23.9.0"
 gem "nokogiri"
 gem "plek", "~> 4.0.0"
 gem "rack_strip_client_ip", "0.0.2"
-gem "sass-rails", "5.1.0"
+gem "sass-rails", "6.0.0"
 gem "slimmer", "~> 15.3.0"
 gem "uglifier", "~> 4.2"
 
